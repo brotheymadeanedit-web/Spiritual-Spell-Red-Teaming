@@ -13,7 +13,7 @@ OpenAI's conversational AI platform. **GPT-5.4** is the current flagship frontie
 
 ### GPT-5.3 (Default Fast Model)
 
-| Model | Context Window | Output | Knowledge Cutoff | Notes |
+| Model | Context Window | Output | Knowledge Cutoff | Notes |e
 |-------|----------------|--------|-------------------|-------|
 | **GPT-5.3 Instant** | 400K | 128K | Aug 2025 | Default for all ChatGPT users, -26.8% hallucinations vs 5.2 (web), fewer refusals, better writing |
 
